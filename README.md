@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola 👋👋
+# Soy Santiago Jauregui
 
-<!--
-**Santiago-Jauregui7/Santiago-Jauregui7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente soy estudiante de la Licenciatura en Ciencia de Datos en la Unviersidad Austral de Rosario.
+Termine el secundario en 2025, en el colegio Sagrado Corazón de Rosario, en la modalidad de Ciencias Sociales y Humanidades.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lenguajes de Programacion
+Actualmente tengo conocimientos sobre:
+- Python
+- HTML
+- CSS
+- JavaScript
+Y tambien tengo buenos conocimientos sobre gut y github.
