@@ -10,4 +10,5 @@ Durante mi formación adquirí conocimientos sobre:
 - HTML
 - CSS
 - JavaScript
+  
 Y tambien tengo buenos conocimientos sobre gut y github.
